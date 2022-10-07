@@ -1,6 +1,6 @@
-package com.leisurecoding.payngo.core.annotation;
+package com.leisurecoding.core.annotation;
 
-import com.leisurecoding.payngo.core.CoreConfiguration;
+import com.leisurecoding.core.CoreConfiguration;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.Documented;
